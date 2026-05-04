@@ -67,7 +67,6 @@ The objective of this project is to:
 
 * `cleaned_data.xlsx` – Processed dataset
 * `Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard file
-* `dashboard.png` – Dashboard screenshot
 
 ---
 
